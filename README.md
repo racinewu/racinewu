@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/stats-organization/github-stats-extended"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=racinewu&theme=shadow_red&hide_rank=true&hide_border=false" alt="Racine's GitHub stats" /></a>
-<a href="https://github.com/stats-organization/github-stats-extended"><img height="195" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=racinewu&theme=shadow_red&layout=donut&hide_border=false" alt="Top Langs" /></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><img height="195" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=racinewu&theme=shadow_red&layout=donut&hide_border=false&hide=sourcepawn" alt="Top Langs" /></a>
