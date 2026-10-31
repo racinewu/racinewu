@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **racinewu/racinewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Racine's GitHub stats](https://github-stats-extended.vercel.app/api?username=racinewu&theme=shadow_red)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=racinewu&theme=shadow_red&layout=donut)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=racinewu&theme=shadow_red" alt="Racine's GitHub stats" />
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=racinewu&theme=shadow_red&layout=donut" alt="Top Langs" />
+</a>
