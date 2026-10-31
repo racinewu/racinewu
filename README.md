@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Racine's GitHub stats](https://github-stats-extended.vercel.app/api?username=racinewu&theme=shadow_red)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=racinewu&layout=donut)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=racinewu&theme=shadow_red&layout=donut)](https://github.com/stats-organization/github-stats-extended)
